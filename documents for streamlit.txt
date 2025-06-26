@@ -1,0 +1,14 @@
+1.To create virtual environment
+ go to terminal and in powershell select command prompt and type this
+     -python -m venv .env 
+
+2.To activate virtual environment 
+      -.env\Scripts\activate.bat
+
+3.pip install Streamlit   for installing streamlit
+4.Streamlit hello for default dashboard
+
+make a app.py file outside of the .env file and write
+import streamlit as st
+
+model lai chai saved vane folder ma rakhxam
